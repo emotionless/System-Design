@@ -2,7 +2,7 @@
 1. What is X
 2. Requirements and Goals of the System
     * Functional Requirement
-    * Non-Functional Requirement
+    * Non-Functional Requirement (Available, latency, consistency, reliable(not lost))
     * Extended Requirement
 3. Capacity Estimation and Constraints
     * Traffic estimates
