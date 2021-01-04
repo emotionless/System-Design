@@ -28,3 +28,6 @@
 
 ## Resources
 1. [Grooking system design](https://www.educative.io/courses/grokking-the-system-design-interview)
+2. [Gaurab System design youtube](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&ab_channel=GauravSen)
+   > Keywords
+   * Open Connect
