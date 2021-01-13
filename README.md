@@ -31,3 +31,4 @@
 2. [Gaurab System design youtube](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&ab_channel=GauravSen)
    > Keywords
    * Open Connect
+3. [Free code camp](https://www.freecodecamp.org/news/how-to-system-design-dda63ed27e26/)
