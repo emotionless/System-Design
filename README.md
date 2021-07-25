@@ -26,6 +26,14 @@
 11. Purgin or DB Cleanup
 12. Security and permission
 
+# System design category wised:
+* Designing a storage/sharing service: Dropbox, Youtube, Instagram, etc.
+* Designing a service that deals with geographical data: Uber, Yelp, Lyft, etc.
+* Designing a social media service: Facebook, Twitter, Instagram, Snapchat, etc.
+* Designing a communication service: Messenger, High traffic web server, etc.
+* Designing a search related service: Search engine, Web crawler, etc.
+* Designing location sharing service: Uber, Google map, Zomato
+
 ## Resources
 1. [Grooking system design](https://www.educative.io/courses/grokking-the-system-design-interview)
 2. [Gaurab System design youtube](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&ab_channel=GauravSen)
